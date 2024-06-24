@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+scanpy
+hdf5plugin
+scanorama
+harmony
+scib
+matplotlib
+seaborn
+jupyter
